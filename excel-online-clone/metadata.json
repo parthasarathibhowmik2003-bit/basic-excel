@@ -1,0 +1,6 @@
+{
+  "name": "Excel Online Clone",
+  "description": "A high-fidelity Microsoft Excel clone with formulas, cell formatting, and a ribbon interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
